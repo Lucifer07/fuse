@@ -23,7 +23,7 @@ Circuit breaker pattern implementation for Laravel queue jobs. PHP 8.1+ compatib
 ## Installation
 
 ```bash
-composer require fuse/fuse
+composer require lucifer07/fuse
 ```
 
 Publish the configuration:
