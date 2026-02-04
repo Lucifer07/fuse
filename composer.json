@@ -1,13 +1,13 @@
 {
-  "name": "pribadi/fuse",
+  "name": "lucifer07/fuse",
   "description": "Circuit breaker for Laravel queue jobs. PHP 8.1 compatible.",
   "keywords": ["laravel", "circuit-breaker", "queue", "jobs", "resilience"],
   "license": "MIT",
   "type": "library",
   "authors": [
     {
-      "name": "Custom",
-      "email": "contact@example.com"
+      "name": "Maulana Jaelani",
+      "email": "jaelanimaulana7@gmail.com"
     }
   ],
   "require": {
